@@ -22,4 +22,12 @@
 ![](https://github.com/DanielMaciel89/DesafioDIOInvestimento/blob/main/images/Tela%201.png)
 ![](https://github.com/DanielMaciel89/DesafioDIOInvestimento/blob/main/images/Tela%202.png)
 
+## Configuração
+- Informar o sálario
+- Informar o rendimento atual da carteira de investimento
+- Informar o valor desejado do investimento mensal que deseja (Já tem um valor de investimento indicado caso queira seguir)
+- Selecionar o seu perfil de investimento
+
+
+
  
