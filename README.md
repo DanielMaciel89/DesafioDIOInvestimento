@@ -11,8 +11,15 @@
 - Utilizar o GitHub como ferramenta para compartilhamento de documentação técnica. 
 
 ## Habilidades Aprendidas
-   - um
-   - dois
-   - três
-   - quatro 
+   - Formatação condicional 
+   - Validação de dados
+   - Gráficos 
+   - Formatação de estilos
+   - Calculos financeiros 
+     
 ## Capturas de Tela
+### Tela Principal
+![](https://github.com/DanielMaciel89/DesafioDIOInvestimento/blob/main/images/Tela%201.png)
+![](https://github.com/DanielMaciel89/DesafioDIOInvestimento/blob/main/images/Tela%202.png)
+
+ 
